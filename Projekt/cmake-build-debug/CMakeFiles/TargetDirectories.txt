@@ -1,0 +1,3 @@
+C:/Users/dvora/GIT/zoozs2020_xdvora17/cmake-build-debug/CMakeFiles/projekt.dir
+C:/Users/dvora/GIT/zoozs2020_xdvora17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dvora/GIT/zoozs2020_xdvora17/cmake-build-debug/CMakeFiles/rebuild_cache.dir

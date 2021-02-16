@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dvora/GIT/zoozs2020_xdvora17/Nepritel.cpp
+Nepritel.h
+C:/Users/dvora/GIT/zoozs2020_xdvora17/Nepritel.h
+
+C:/Users/dvora/GIT/zoozs2020_xdvora17/Nepritel.h
+Predmety.h
+C:/Users/dvora/GIT/zoozs2020_xdvora17/Predmety.h
+vector
+-
+
+C:/Users/dvora/GIT/zoozs2020_xdvora17/Predmety.h
+iostream
+-
+
